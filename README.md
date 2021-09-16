@@ -1,2 +1,2 @@
 # Data-Science-Capstone
-# This is a check file
+This is a check file
